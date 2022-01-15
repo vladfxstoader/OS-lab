@@ -1,4 +1,4 @@
 # OS-lab
 Lab homework and project (monitor - sync object implementation) for the OS course (2nd year, FMI Unibuc)
 
-Tema proiectului: Implementati un obiect de sincronizare tip monitor. Folositi variabile conditionale pentru a permite mai multor procese sa coexiste ın interiorul monitorului la un moment dat.
+Tema proiectului: Implementati un obiect de sincronizare tip monitor. Folositi variabile conditionale pentru a permite mai multor procese sa coexiste ın interiorul monitorului la un moment dat. (monitor.c)
