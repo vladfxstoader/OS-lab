@@ -1,4 +1,4 @@
-# OS lab
+# OS lab - C
 
 Lab homework for the OS course.
 
